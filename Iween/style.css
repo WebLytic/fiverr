@@ -174,7 +174,7 @@ br {
     background-image: url('./images/footerbg.png');
     height: 130px;
     background-repeat: no-repeat;
-    width: 100%;
+    width: 100vw;
     background-position: center;
     background-size: cover;
 }
