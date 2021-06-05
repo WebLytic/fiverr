@@ -501,6 +501,7 @@ footer ul li {
 
     footer {
         padding: 60px 0px 60px 0px;
+        text-align: start; 
     }
     
     footer h1 {
